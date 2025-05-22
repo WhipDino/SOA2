@@ -1,6 +1,6 @@
 # Turma 3RSR
-# Nome dos integrantes
+## Nome dos integrantes
 
-## João Victor - RM550453
-## Juliana Maita - RM99224
-## Luana Cabezaolias - RM99320
+### João Victor - RM550453
+### Juliana Maita - RM99224
+### Luana Cabezaolias - RM99320
